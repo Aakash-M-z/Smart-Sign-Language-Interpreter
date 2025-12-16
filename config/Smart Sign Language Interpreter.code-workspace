@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ISL Hand Gesture Dataset"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "Smart Sign Language Interpreter"
+	}
+}
